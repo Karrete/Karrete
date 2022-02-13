@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karrete, mathematician and self taught programer
 - 👀 I’m interested in blockchain tech
-- 🌱 I’m currently learning to develop DAPPs
+- 🌱 I’m currently in the plutus pioneer program (Cardano)
 - 💞️ I’m looking to collaborate on Ethereum, Harmony and Cardano
 - 📫 You can reach me at karretecrypto@gmail.com and twitter: @KrtCrypto
